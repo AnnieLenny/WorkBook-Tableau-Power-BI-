@@ -1,4 +1,4 @@
-# Workbook: Exploring Tableau and PowerBI for Data Analysis
+# Workbook: Exploring Tableau & PowerBI for Data Analysis
 
 ## Overview
 
